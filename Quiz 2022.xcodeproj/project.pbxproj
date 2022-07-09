@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F54423952878BB2C002CC672 /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54423942878BB2C002CC672 /* QuestionViewController.swift */; };
+		F55F641A2879F3EF008A28DC /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F55F64192879F3EF008A28DC /* ResultsViewController.swift */; };
 		F5DA6D0E287612250067B98C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5DA6D0D287612250067B98C /* AppDelegate.swift */; };
 		F5DA6D10287612250067B98C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5DA6D0F287612250067B98C /* SceneDelegate.swift */; };
 		F5DA6D12287612250067B98C /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5DA6D11287612250067B98C /* WelcomeViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		F54423942878BB2C002CC672 /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
+		F55F64192879F3EF008A28DC /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
 		F5DA6D0A287612250067B98C /* Quiz 2022.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quiz 2022.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5DA6D0D287612250067B98C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F5DA6D0F287612250067B98C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -44,6 +46,7 @@
 			children = (
 				F5DA6D11287612250067B98C /* WelcomeViewController.swift */,
 				F54423942878BB2C002CC672 /* QuestionViewController.swift */,
+				F55F64192879F3EF008A28DC /* ResultsViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 				F5DA6D12287612250067B98C /* WelcomeViewController.swift in Sources */,
 				F5DA6D0E287612250067B98C /* AppDelegate.swift in Sources */,
 				F54423952878BB2C002CC672 /* QuestionViewController.swift in Sources */,
+				F55F641A2879F3EF008A28DC /* ResultsViewController.swift in Sources */,
 				F5DA6D10287612250067B98C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
