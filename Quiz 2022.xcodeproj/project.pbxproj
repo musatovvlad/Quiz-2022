@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F54423952878BB2C002CC672 /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54423942878BB2C002CC672 /* QuestionViewController.swift */; };
 		F5DA6D0E287612250067B98C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5DA6D0D287612250067B98C /* AppDelegate.swift */; };
 		F5DA6D10287612250067B98C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5DA6D0F287612250067B98C /* SceneDelegate.swift */; };
 		F5DA6D12287612250067B98C /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5DA6D11287612250067B98C /* WelcomeViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F54423942878BB2C002CC672 /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
 		F5DA6D0A287612250067B98C /* Quiz 2022.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quiz 2022.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5DA6D0D287612250067B98C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F5DA6D0F287612250067B98C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -37,6 +39,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		F54423962878BB61002CC672 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				F5DA6D11287612250067B98C /* WelcomeViewController.swift */,
+				F54423942878BB2C002CC672 /* QuestionViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
 		F5DA6D01287612250067B98C = {
 			isa = PBXGroup;
 			children = (
@@ -57,12 +68,12 @@
 			isa = PBXGroup;
 			children = (
 				F5DA6D0D287612250067B98C /* AppDelegate.swift */,
-				F5DA6D0F287612250067B98C /* SceneDelegate.swift */,
-				F5DA6D11287612250067B98C /* WelcomeViewController.swift */,
-				F5DA6D13287612250067B98C /* Main.storyboard */,
 				F5DA6D16287612270067B98C /* Assets.xcassets */,
-				F5DA6D18287612270067B98C /* LaunchScreen.storyboard */,
 				F5DA6D1B287612270067B98C /* Info.plist */,
+				F5DA6D18287612270067B98C /* LaunchScreen.storyboard */,
+				F5DA6D13287612250067B98C /* Main.storyboard */,
+				F5DA6D0F287612250067B98C /* SceneDelegate.swift */,
+				F54423962878BB61002CC672 /* ViewControllers */,
 			);
 			path = "Quiz 2022";
 			sourceTree = "<group>";
@@ -140,6 +151,7 @@
 			files = (
 				F5DA6D12287612250067B98C /* WelcomeViewController.swift in Sources */,
 				F5DA6D0E287612250067B98C /* AppDelegate.swift in Sources */,
+				F54423952878BB2C002CC672 /* QuestionViewController.swift in Sources */,
 				F5DA6D10287612250067B98C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
