@@ -8,5 +8,5 @@
 import Darwin
 
 enum responseType{ // описывает варианты ответов 
-    case single, multiply, range
+    case single, multiple, range
 }

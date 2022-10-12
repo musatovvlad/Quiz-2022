@@ -11,7 +11,7 @@ struct Questions{
     let answers:[Answer]
     
     
-    static let oll:[Questions] = [
+    static let all:[Questions] = [
         Questions(text: "Какую еду вы любите?", type: .single, answers: [
             Answer(text:"Рыбу", type:.cat),
             Answer(text:"Стэйк", type:.dog),
@@ -19,17 +19,17 @@ struct Questions{
             Answer(text:"Кукурузу", type:.turtle),
         
         ]),
-        Questions(text: "Что вы любите делать", type: .multiply, answers: [ //switch
+        Questions(text: "Что вы любите делать?", type: .multiple, answers: [ //switch
             Answer(text:"Прыгать", type:.rabbit),
             Answer(text:"Спать", type:.cat),
             Answer(text:"Есть ", type:.dog),
             Answer(text:"Плавать", type:.turtle),
         ]),
-        Questions(text: "Любите ли вы ездить на машине", type: .single, answers: [ // Слайдер
-            Answer(text:"Не замечаю", type:.turtle),
+        Questions(text: "Любите ли вы ездить на машине?", type: .range, answers: [ // Слайдер
             Answer(text:"Обожаю", type:.dog),
-            Answer(text:"Ненавижу", type:.cat),
+            Answer(text:"Не замечаю", type:.turtle),
             Answer(text:"Нервничаю", type:.rabbit),
+            Answer(text:"Ненавижу", type:.cat),
         ]),
     ]
 }
