@@ -8,11 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		F54423952878BB2C002CC672 /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F54423942878BB2C002CC672 /* QuestionViewController.swift */; };
-		F544B9BF28FB21C4002181DE /* screenshots 05.png in Resources */ = {isa = PBXBuildFile; fileRef = F544B9BA28FB21C4002181DE /* screenshots 05.png */; };
-		F544B9C028FB21C4002181DE /* screenshots 04.png in Resources */ = {isa = PBXBuildFile; fileRef = F544B9BB28FB21C4002181DE /* screenshots 04.png */; };
-		F544B9C128FB21C4002181DE /* screenshots 03.png in Resources */ = {isa = PBXBuildFile; fileRef = F544B9BC28FB21C4002181DE /* screenshots 03.png */; };
-		F544B9C228FB21C4002181DE /* screenshots 02.png in Resources */ = {isa = PBXBuildFile; fileRef = F544B9BD28FB21C4002181DE /* screenshots 02.png */; };
-		F544B9C328FB21C4002181DE /* screenshots 01.png in Resources */ = {isa = PBXBuildFile; fileRef = F544B9BE28FB21C4002181DE /* screenshots 01.png */; };
+		F544B9BF28FB21C4002181DE /* screenshots05.png in Resources */ = {isa = PBXBuildFile; fileRef = F544B9BA28FB21C4002181DE /* screenshots05.png */; };
+		F544B9C028FB21C4002181DE /* screenshots04.png in Resources */ = {isa = PBXBuildFile; fileRef = F544B9BB28FB21C4002181DE /* screenshots04.png */; };
+		F544B9C128FB21C4002181DE /* screenshots03.png in Resources */ = {isa = PBXBuildFile; fileRef = F544B9BC28FB21C4002181DE /* screenshots03.png */; };
+		F544B9C228FB21C4002181DE /* screenshots02.png in Resources */ = {isa = PBXBuildFile; fileRef = F544B9BD28FB21C4002181DE /* screenshots02.png */; };
+		F544B9C328FB21C4002181DE /* screenshots01.png in Resources */ = {isa = PBXBuildFile; fileRef = F544B9BE28FB21C4002181DE /* screenshots01.png */; };
 		F55BEC67287A8FF60000BA98 /* Answer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F55BEC66287A8FF60000BA98 /* Answer.swift */; };
 		F55BEC69287A910E0000BA98 /* AnimalType.swift in Sources */ = {isa = PBXBuildFile; fileRef = F55BEC68287A910E0000BA98 /* AnimalType.swift */; };
 		F55F641A2879F3EF008A28DC /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F55F64192879F3EF008A28DC /* ResultsViewController.swift */; };
@@ -29,11 +29,11 @@
 
 /* Begin PBXFileReference section */
 		F54423942878BB2C002CC672 /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
-		F544B9BA28FB21C4002181DE /* screenshots 05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshots 05.png"; sourceTree = "<group>"; };
-		F544B9BB28FB21C4002181DE /* screenshots 04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshots 04.png"; sourceTree = "<group>"; };
-		F544B9BC28FB21C4002181DE /* screenshots 03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshots 03.png"; sourceTree = "<group>"; };
-		F544B9BD28FB21C4002181DE /* screenshots 02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshots 02.png"; sourceTree = "<group>"; };
-		F544B9BE28FB21C4002181DE /* screenshots 01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshots 01.png"; sourceTree = "<group>"; };
+		F544B9BA28FB21C4002181DE /* screenshots05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshots05.png; sourceTree = "<group>"; };
+		F544B9BB28FB21C4002181DE /* screenshots04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshots04.png; sourceTree = "<group>"; };
+		F544B9BC28FB21C4002181DE /* screenshots03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshots03.png; sourceTree = "<group>"; };
+		F544B9BD28FB21C4002181DE /* screenshots02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshots02.png; sourceTree = "<group>"; };
+		F544B9BE28FB21C4002181DE /* screenshots01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshots01.png; sourceTree = "<group>"; };
 		F55BEC66287A8FF60000BA98 /* Answer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Answer.swift; sourceTree = "<group>"; };
 		F55BEC68287A910E0000BA98 /* AnimalType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalType.swift; sourceTree = "<group>"; };
 		F55F64192879F3EF008A28DC /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
@@ -74,11 +74,11 @@
 		F544B9B928FB21C4002181DE /* screenshots Quiz */ = {
 			isa = PBXGroup;
 			children = (
-				F544B9BA28FB21C4002181DE /* screenshots 05.png */,
-				F544B9BB28FB21C4002181DE /* screenshots 04.png */,
-				F544B9BC28FB21C4002181DE /* screenshots 03.png */,
-				F544B9BD28FB21C4002181DE /* screenshots 02.png */,
-				F544B9BE28FB21C4002181DE /* screenshots 01.png */,
+				F544B9BE28FB21C4002181DE /* screenshots01.png */,
+				F544B9BD28FB21C4002181DE /* screenshots02.png */,
+				F544B9BC28FB21C4002181DE /* screenshots03.png */,
+				F544B9BB28FB21C4002181DE /* screenshots04.png */,
+				F544B9BA28FB21C4002181DE /* screenshots05.png */,
 			);
 			path = "screenshots Quiz";
 			sourceTree = "<group>";
@@ -201,15 +201,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F544B9C228FB21C4002181DE /* screenshots 02.png in Resources */,
+				F544B9C228FB21C4002181DE /* screenshots02.png in Resources */,
 				F5DA6D1A287612270067B98C /* LaunchScreen.storyboard in Resources */,
-				F544B9C128FB21C4002181DE /* screenshots 03.png in Resources */,
+				F544B9C128FB21C4002181DE /* screenshots03.png in Resources */,
 				F5DA6D17287612270067B98C /* Assets.xcassets in Resources */,
-				F544B9C028FB21C4002181DE /* screenshots 04.png in Resources */,
+				F544B9C028FB21C4002181DE /* screenshots04.png in Resources */,
 				F5DA6D15287612250067B98C /* Main.storyboard in Resources */,
 				F5F6FD6628FB432A0076FBED /* README.md in Resources */,
-				F544B9BF28FB21C4002181DE /* screenshots 05.png in Resources */,
-				F544B9C328FB21C4002181DE /* screenshots 01.png in Resources */,
+				F544B9BF28FB21C4002181DE /* screenshots05.png in Resources */,
+				F544B9C328FB21C4002181DE /* screenshots01.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
