@@ -24,7 +24,7 @@
 		F5DA6D15287612250067B98C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5DA6D13287612250067B98C /* Main.storyboard */; };
 		F5DA6D17287612270067B98C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5DA6D16287612270067B98C /* Assets.xcassets */; };
 		F5DA6D1A287612270067B98C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5DA6D18287612270067B98C /* LaunchScreen.storyboard */; };
-		F5F6FD6628FB432A0076FBED /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F5F6FD6528FB432A0076FBED /* README.md */; };
+		F5F6FD6828FBF8610076FBED /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F5F6FD6728FBF8610076FBED /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,7 +47,7 @@
 		F5DA6D16287612270067B98C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F5DA6D19287612270067B98C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F5DA6D1B287612270067B98C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F5F6FD6528FB432A0076FBED /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F5F6FD6728FBF8610076FBED /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../vlad/Desktop/README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,7 +117,7 @@
 		F5DA6D01287612250067B98C = {
 			isa = PBXGroup;
 			children = (
-				F5F6FD6528FB432A0076FBED /* README.md */,
+				F5F6FD6728FBF8610076FBED /* README.md */,
 				F5DA6D0C287612250067B98C /* Quiz 2022 */,
 				F5DA6D0B287612250067B98C /* Products */,
 			);
@@ -207,7 +207,7 @@
 				F5DA6D17287612270067B98C /* Assets.xcassets in Resources */,
 				F544B9C028FB21C4002181DE /* screenshots04.png in Resources */,
 				F5DA6D15287612250067B98C /* Main.storyboard in Resources */,
-				F5F6FD6628FB432A0076FBED /* README.md in Resources */,
+				F5F6FD6828FBF8610076FBED /* README.md in Resources */,
 				F544B9BF28FB21C4002181DE /* screenshots05.png in Resources */,
 				F544B9C328FB21C4002181DE /* screenshots01.png in Resources */,
 			);
